@@ -38,3 +38,9 @@
         display: block;
       }
     }
+    h1 {
+      font-family: 'Pacifico', cursive;
+    }
+    .project-title {
+     font-family: 'VT323', monospace;
+    }
